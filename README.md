@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vanessa Florio
 - 👀 I’m interested in coding, playing tennis, filming workout videos & travelling
-- 🌱 I’m currently learning how to code.
+- 🌱 I’m currently training at Makers and working on weekly coding challenges
 - 🗣 I speak German, English, Italian
 
 
