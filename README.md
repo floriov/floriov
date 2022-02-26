@@ -1,6 +1,6 @@
 ## Welcome to my Github Page!
 
-## About me
+### About me
 An aspirational, highly motivated and committed tech enthusiast with a good foundation in software development and programming principles provided by Makers Academy Bootcamp. Well versed in following an Agile workflow and keeping to a clean and precise Test Driven Development process, utilising personally developed testing frameworks in addition to well known frameworks such as Jasmine and RSpec. An excellent team-member with strong transferable skills. 
 
 ### Find out more about me by clicking on the links below:
