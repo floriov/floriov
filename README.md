@@ -8,12 +8,11 @@
    <a href="https://github.com/floriov">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/jasonrowsell?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://medium.com/@vanessarosef">
-    <img alt="medium" title="medium blog" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+    <img alt="medium" title="medium blog" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a><br> <br> 
     
-    
- </div>
- 
- <p> &nbsp </p>
+   Please find my CV here: [Vanessa Florio CV](https://github.com/floriov/floriov/files/8257615/Vanessa.Florio.CV.2022.pdf
+)
+ </div><p> &nbsp </p>
 
 ### About me:
 An aspirational, highly motivated and committed tech enthusiast with a good foundation in software development and programming principles provided by Makers Academy Bootcamp. Well versed in following an Agile workflow and keeping to a clean and precise Test Driven Development process, utilising personally developed testing frameworks in addition to well known frameworks such as Jasmine and RSpec. An excellent team-member with strong transferable skills. 
