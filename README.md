@@ -10,8 +10,7 @@
   <a href="https://medium.com/@vanessarosef">
     <img alt="medium" title="medium blog" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a><br> <br> 
     
-   Please find my CV here: [Vanessa Florio CV](https://github.com/floriov/floriov/files/8257615/Vanessa.Florio.CV.2022.pdf
-) <br> ...and my Github CV [here](https://github.com/floriov/CV)
+   Please find my Github CV [here](https://github.com/floriov/CV)
  
  </div><p> &nbsp </p>
 
