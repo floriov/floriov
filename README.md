@@ -1,6 +1,5 @@
 <h1 align="center"> Vanessa Florio</h1>
-<h3 align="center"> Full Stack Software Engineer</h3>
-<h4 align="center">Recently graduated the Makers Academy software engineering bootcamp!</h4>
+<h3 align="center"> DevOps Engineer</h3>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/vanessa-florio-73a495100/">
@@ -10,13 +9,18 @@
   <a href="https://medium.com/@vanessarosef">
     <img alt="medium" title="medium blog" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a><br> <br> 
     
-   Please find my Github CV [here](https://github.com/floriov/CV)
+   Please find my Github CV [here](https://github.com/floriov/floriov/files/13353911/Vanessa.Florio.DevOps.Engineer.2023.docx)
  
  </div><p> &nbsp </p>
 
 ### About me:
-An aspirational, highly motivated and committed tech enthusiast with a good foundation in software development and programming principles provided by Makers Academy Bootcamp. Well versed in following an Agile workflow and keeping to a clean and precise Test Driven Development process, utilising personally developed testing frameworks in addition to well known frameworks such as Jasmine and RSpec. An excellent team-member with strong transferable skills. 
+Experienced DevOps Engineer with a proven track record in enhancing CI/CD pipelines, API and application management. Accomplished key projects such as the automation of clean-up processes, managing Slack app integrations, and the implementation of Datadog monitoring solutions. Proficient in scripting, Kubernetes, GitOps, and AWS best practices. Completed a 12-week coding bootcamp as well as the Kubernetes & Cloud Native Associate certification. Has an unwavering eagerness to embrace new challenges and technologies. Eager to drive operational excellence and efficiency in DevOps environments.
 
+### Certifications:
+Kubernetes and Cloud Native Associate<br>
+AWS Well-Architected Best Practices<br>
+Running Containers on Amazon Elastic Kubernetes Service (Amazon EKS)<br>
+GitOps at Scale 
 
 ### Projects:
 
@@ -32,12 +36,11 @@ An aspirational, highly motivated and committed tech enthusiast with a good foun
 
 #### 👩‍💻 Languages 
 
- <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-#### 🚀 Frameworks 
-
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" /><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" /><img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+#### 🚀 Frameworks, Platforms and Libraries
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" /><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 
 
 #### ⚡ Database 
@@ -48,8 +51,13 @@ An aspirational, highly motivated and committed tech enthusiast with a good foun
 #### ⏱️ Workflow Platforms
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 
-#### ☁ Cloud
+#### ☁ Hosting, SaaS
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+
+
  
 
 
