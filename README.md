@@ -26,10 +26,10 @@ GitOps at Scale
 
 | Name                         | Description        | Timeframe             | Tech/tools            |
 | ---------------------------- | -----------------   | --------------                | -----------------     |
+| **[Hosting a Website on Amazon S3](http://nextwork-website-project-vanessa.s3-website.eu-west-2.amazonaws.com/)** | To create and deploy a static website using Amazon S3. This project demonstrates setting up an S3 bucket, configuring static website hosting, and managing bucket permissions. | less than 1 hour | AWS S3, AWS Management Console, AWS IAM, Web Browser |
 | **[PairPro](https://github.com/floriov/pair-pro)**  | I came up with the idea of Pair Pro, which is a web app where software engineers can connect to pair program together |  10 Days   |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
 | **[Acebook](https://github.com/floriov/acebook-five-aces)**|   A webapp clone of Facebook |  10 Days  |  Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)  |
 | **[Makersbnb](https://github.com/floriov/Makersbnb-Group-4)**  |  A webapp clone of Airbnb  |  5 Days   |  Ruby, Sinatra, PSQL, HTML, CSS  |
-
 
 
 ### Programming Skills
