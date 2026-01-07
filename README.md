@@ -8,7 +8,7 @@
   <a href="https://medium.com/@vanessarosef">
     <img alt="medium" title="medium blog" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a><br> <br> 
     
-   Please find my Github CV [here](https://github.com/floriov/floriov/files/13353911/Vanessa.Florio.DevOps.Engineer.2023.docx)
+  
  
  </div><p> &nbsp </p>
 
