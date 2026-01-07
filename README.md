@@ -2,8 +2,7 @@
 <h3 align="center"> DevOps Engineer</h3>
 
 <div align="center">
- <a href="https://www.linkedin.com/in/vanessa-florio-73a495100/">
-    <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ 
    <a href="https://github.com/floriov">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/jasonrowsell?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://medium.com/@vanessarosef">
